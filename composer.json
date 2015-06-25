@@ -1,0 +1,24 @@
+{
+  "name": "brainsrage/yii2-authclient-instagram",
+  "description": "Instagram client for yii2-authclient",
+  "type": "library",
+  "keywords": [
+    "yii2",
+    "authclient",
+    "oauth2",
+    "oauth2",
+    "instagram"
+  ],
+  "homepage": "https://github.com/BrainsRage/yii2-authclient-instagram",
+  "require": {
+    "yiisoft/yii2-authclient": "~2.0.4@dev"
+  },
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Dima Ivanov",
+      "email": "brainsrage@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
