@@ -20,5 +20,10 @@
       "email": "brainsrage@gmail.com"
     }
   ],
+  "autoload": {
+    "psr-4": {
+      "brainsrage\\authclient\\": ""
+    }
+  },
   "minimum-stability": "dev"
 }
