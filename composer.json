@@ -11,7 +11,7 @@
   ],
   "homepage": "https://github.com/BrainsRage/yii2-authclient-instagram",
   "require": {
-    "yiisoft/yii2-authclient": "~2.0.4@dev"
+    "yiisoft/yii2-authclient": "~2.0.4"
   },
   "license": "BSD-3-Clause",
   "authors": [
