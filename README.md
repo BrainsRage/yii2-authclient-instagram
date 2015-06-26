@@ -23,7 +23,7 @@ php
         'class' => 'yii\authclient\Collection',
         'clients' => [
             'instagram' => [
-                'class' => 'app\common\auth\Instagram',
+                'class' => 'brainsrage\authclient\Instagram',
                 'clientId' => 'Instagram client id',
                 'clientSecret' => 'Instagram client secret',
             ],
